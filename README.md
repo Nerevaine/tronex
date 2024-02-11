@@ -26,3 +26,4 @@ You might be wondering, what are the prerequisites for building such an amazing 
 -   Perfectly placed media queries for satisfactory responsiveness covering almost devices
 -   And at the end you'll learn how to deploy your websites to extremely fast servers and give them a custom domain name.
 # tronex.io
+# tronex
